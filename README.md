@@ -17,7 +17,7 @@
 
 ## Usage
 1. Open Kusonime.com on your web browser
-2. Copy link from anime that you want to scrape
+2. Copy link from anime you want to scrape
 3. Open Kusonime Scraper and paste your url on ?url= parameter
 
 ```
