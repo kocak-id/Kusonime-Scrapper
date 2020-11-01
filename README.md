@@ -29,7 +29,7 @@ ex : https://loc4lh0st.me/tools/kusonime.php?url=https://kusonime.com/nandei-sen
 * Open Source
 
 ## Screenshots
-<kbd><img style="border: 5px solid black;" src="https://github.com/RINNN-666/Kusonime-Scrapper/blob/master/Screenshots/screenshot.jpg"  height="400"/></kbd>
+<kbd><img style="border: 5px solid black;" src="https://github.com/RINNN-666/Kusonime-Scrapper/raw/main/Screenshots/screenshot.jpg"  height="400"/></kbd>
 
 ## Contributions
 Contributions are welcomed! <3 <br/>
