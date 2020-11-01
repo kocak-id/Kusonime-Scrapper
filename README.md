@@ -22,7 +22,7 @@
 
 ex : 
 ```
-https://loc4lh0st.me/kusonime/json.php?url=https://loc4lh0st.me/kusonime/json.php?url=https://kusonime.com/nandei-sensei-batch-sub-indo/
+https://loc4lh0st.me/kusonime/json.php?url=https://kusonime.com/nandei-sensei-batch-sub-indo/
 ```
 ## Features
 * Display Download Title
