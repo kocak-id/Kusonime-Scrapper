@@ -25,7 +25,7 @@ ex : https://loc4lh0st.me/tools/kusonime.php?url=https://kusonime.com/ta-ga-tame
 ```
 ## Features
 * Displays Download Title
-* Display Resolutin
+* Display Resolution
 * JSON Print
 * Open Source
 
