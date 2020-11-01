@@ -1,11 +1,10 @@
 <p align="center">
-<img src="https://i.pinimg.com/originals/a3/1b/ec/a31becfcb76c2a3d73118c2b7b302b0b.png"  align="center" height="50"/>
+<img src="https://i.pinimg.com/originals/a3/1b/ec/a31becfcb76c2a3d73118c2b7b302b0b.png"  align="center"/>
 </p>
 
 <h1 align="center"> Kusonime Scrapper </h1>
 <h4 align="center"> Get Direct Download Link from Kusonime.com<br/></h4>
 <br/>
-:star: Star me on GitHub — It helps!<br/>
  </p>
  <p align="center">
   <a href="#usage">Usage</a> •
