@@ -21,7 +21,7 @@
 3. Open Kusonime Scraper and paste your url on ?url= parameter
 
 ```
-ex : https://loc4lh0st.me/tools/kusonime.php?url=https://kusonime.com/ta-ga-tame-no-alchemist-bd-subtitle-indonesia/
+ex : https://loc4lh0st.me/kusonime/json.php?url=https://kusonime.com/ta-ga-tame-no-alchemist-bd-subtitle-indonesia/
 ```
 ## Features
 * Displays Download Title
