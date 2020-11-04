@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Kusonime Scrapper </h1>
-<center>
+<p align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -37,7 +37,7 @@
 [6]: http://www.github.com/RINNN-666
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-</center>
+</p>
 <h4 align="center"> Get Direct Download Link from Kusonime.com<br/></h4>
 <br/>
  </p>
