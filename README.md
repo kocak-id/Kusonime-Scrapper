@@ -10,6 +10,7 @@
   <a href="#usage">Usage</a> •
   <a href="#features">Features</a> •
   <a href="#response">Response</a> •
+  <a href="#social">Social Media</a> •
   <a href="#contributions">Contribute</a>
 </p>
 
