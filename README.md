@@ -10,7 +10,7 @@
   <a href="#usage">Usage</a> •
   <a href="#features">Features</a> •
   <a href="#response">Response</a> •
-  <a href="#social media">Social Media</a> •
+  <a href="#author">Author</a> •
   <a href="#contributions">Contribute</a>
 </p>
 
@@ -180,7 +180,7 @@ Response Will be like this:
     }
 ]
 ```
-## Social Media
+## Author
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
