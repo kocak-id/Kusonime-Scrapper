@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center"> Kusonime Scrapper </h1>
-
-<h<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 
@@ -36,7 +35,8 @@
 [2]: http://www.facebook.com/azum.co
 [6]: http://www.github.com/RINNN-666
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->4 align="center"> Get Direct Download Link from Kusonime.com<br/></h4>
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<h4 align="center"> Get Direct Download Link from Kusonime.com<br/></h4>
 <br/>
  </p>
  <p align="center">
